@@ -1,0 +1,17 @@
+# Entornos virtuales
+venv/
+.env/
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos de tests temporales
+*.log
+*.pytest_cache/
+
+# VSCode / PyCharm
+.vscode/
+.idea/
